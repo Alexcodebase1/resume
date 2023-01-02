@@ -1,0 +1,25 @@
+
+
+    body {
+        background-color: aquamarine;
+        }
+
+    h1 {
+    color: #BD3FBF
+    }   
+    h3 {
+        color: #BD3FBF
+    }
+
+    table {
+        color: none
+    }
+    hr {
+        background-color: none;
+        border-style: none;
+        border-top-style: dotted;
+        border-color: grey;
+        border-width: 5px;
+        height: 0px;
+        width:90%
+}
